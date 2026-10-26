@@ -3,7 +3,7 @@
 - 🎓 Cursando o último semestre de **Análise e Desenvolvimento de Sistemas** (SENAC SP).
 - 🏥 4 anos de experiência no setor hospitalar com domínio prático em **SOUL MV** e **PEP**.
 - 💻 Foco em **Python**, **Flask**, **SQL** e **Análise de Dados**.
-- 🚀 Criadora do **DocMed**: sistema de automação para gestão e solicitação de prontuários médicos.
+- 🚀 Criadora do **ProntuFlow**: sistema de automação para gestão e solicitação de prontuários médicos.
 
 ---
 
