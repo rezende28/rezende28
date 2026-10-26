@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou a Stephany! 👋
 
-<!--
-**rezende28/rezende28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Cursando o último semestre de **Análise e Desenvolvimento de Sistemas** (SENAC SP).
+- 🏥 4 anos de experiência no setor hospitalar com domínio prático em **SOUL MV** e **PEP**.
+- 💻 Foco em **Python**, **Flask**, **SQL** e **Análise de Dados**.
+- 🚀 Criadora do **DocMed**: sistema de automação para gestão e solicitação de prontuários médicos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+📬 **Como me encontrar:**
+- LinkedIn: https://www.linkedin.com/in/stephany-rezende/
